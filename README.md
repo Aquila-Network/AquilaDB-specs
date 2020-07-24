@@ -1,2 +1,3 @@
-# AquilaDB-specs
-AquilaDB whitepapers, specifications and documentation
+# AquilaDB Specifications
+
+    This repository contains the specs for the AquilaDB system design, protocols and associated subsystems.
