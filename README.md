@@ -1,6 +1,6 @@
 # AquilaDB Specifications
 
-This repository contains the specs for the AquilaDB system design, protocols and associated subsystems.
+This repository contains the specs to build an AquilaDB node, protocols to join the network and develop associated subsystems.
 
 # Whitepaper
 
