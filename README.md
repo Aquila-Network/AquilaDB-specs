@@ -2,7 +2,7 @@
 
 This repository contains the specs to build an AquilaDB node, protocols to join the network and develop associated subsystems.
 
-# Whitepaper
+# White paper
 
 [AquilaDB white paper (draft)](https://github.com/a-mma/AquilaDB-specs/blob/master/AquilaDB_whitepaper_draft.pdf) is now available for public review.
 
