@@ -1,6 +1,8 @@
-# AquilaDB Specifications
+# AquilaDB Whitepaper
 
-This repository contains the specs to build an AquilaDB node, protocols to join the network and develop associated subsystems.
+This repository contains Aquila Network (versioned) whitepapers. A new version is released when significant technical improvements are achieved at the protocol level. Please make sure to access the latest version.
+
+To access Aquila Network technical specifications, navigate to [Aquila-Network/specs](https://github.com/Aquila-Network/specs).
 
 # White paper
 
