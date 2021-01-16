@@ -2,7 +2,7 @@
 
 This repository contains Aquila Network (versioned) whitepapers. A new version is released when significant technical improvements are achieved at the protocol level. Please make sure to access the latest version.
 
-To access Aquila Network technical specifications, navigate to [Aquila-Network/specs](https://github.com/Aquila-Network/specs).
+To access Aquila Network technical specifications, navigate to [Aquila-Network/specs](https://github.com/Aquila-Network/specs) repository.
 
 # White paper
 
